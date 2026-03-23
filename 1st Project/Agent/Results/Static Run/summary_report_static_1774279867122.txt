@@ -1,0 +1,10 @@
+EXPERIMENT SUMMARY REPORT
+=========================
+Mode: static | Runs: 100 | Time: 23.65s
+
+METRICS (AVG | MIN | MAX | STDDEV)
+----------------------------------
+Utility     : 1.8754 | 1.5700 | 2.1800 | 0.1376
+Steps       : 28.2200 | 22.0000 | 34.0000 | 2.6668
+Actions     : 37.2200 | 31.0000 | 43.0000 | 2.6668
+Performance : 0.0675 | 0.0476 | 0.0982 | 0.0112

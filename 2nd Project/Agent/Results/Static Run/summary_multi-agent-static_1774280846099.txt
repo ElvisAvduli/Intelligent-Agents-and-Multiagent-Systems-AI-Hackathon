@@ -1,0 +1,31 @@
+MULTI-AGENT EXPERIMENT SUMMARY
+==================================================
+Mode: multi-agent-static | Total Runs: 100 | Duration: 576.92s
+
+Successful Runs: 99
+Deadlock Runs:   1
+Success Rate:    99,00%
+
+OVERALL METRICS (ALL RUNS)
+--------------------------------------------------
+Total Utility       : Avg=1.3258 | Min=-13.6400 | Max=2.1400 | StdDev=1.6800
+Total Steps         : Avg=42.0100 | Min=24.0000 | Max=386.0000 | StdDev=43.3602
+Total Actions       : Avg=50.2300 | Min=31.0000 | Max=392.0000 | StdDev=43.3195
+
+SUCCESSFUL RUNS ONLY
+--------------------------------------------------
+Total Utility       : Avg=1.4770 | Min=-3.9000 | Max=2.1400 | StdDev=0.7521
+Total Steps         : Avg=38.5354 | Min=24.0000 | Max=236.0000 | StdDev=26.3018
+Total Actions       : Avg=46.7778 | Min=31.0000 | Max=245.0000 | StdDev=26.5283
+
+AGENT 1 METRICS (SUCCESSFUL RUNS)
+--------------------------------------------------
+Agent1 Utility      : Avg=0.5672 | Min=-3.9100 | Max=1.4200 | StdDev=0.6872
+Agent1 Steps        : Avg=18.1010 | Min=0.0000 | Max=183.0000 | StdDev=22.9640
+Agent1 Actions      : Avg=21.4545 | Min=0.0000 | Max=187.0000 | StdDev=23.7603
+
+AGENT 2 METRICS (SUCCESSFUL RUNS)
+--------------------------------------------------
+Agent2 Utility      : Avg=0.9098 | Min=-0.2700 | Max=1.8500 | StdDev=0.5343
+Agent2 Steps        : Avg=20.4343 | Min=3.0000 | Max=56.0000 | StdDev=9.3821
+Agent2 Actions      : Avg=25.3232 | Min=3.0000 | Max=64.0000 | StdDev=10.6229
